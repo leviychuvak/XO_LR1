@@ -1,0 +1,15 @@
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\bin\Release\GuestBook_Data.dll
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\bin\Release\GuestBook_Data.pdb
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\bin\Release\Microsoft.WindowsAzure.Storage.dll
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\bin\Release\Newtonsoft.Json.dll
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\bin\Release\Microsoft.WindowsAzure.Storage.xml
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\bin\Release\Newtonsoft.Json.xml
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\obj\Release\GuestBook_Data.csproj.AssemblyReference.cache
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\obj\Release\GuestBook_Data.csproj.CoreCompileInputs.cache
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\obj\Release\GuestBook_Data.csproj.CopyComplete
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\obj\Release\GuestBook_Data.dll
+D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook_Data\obj\Release\GuestBook_Data.pdb

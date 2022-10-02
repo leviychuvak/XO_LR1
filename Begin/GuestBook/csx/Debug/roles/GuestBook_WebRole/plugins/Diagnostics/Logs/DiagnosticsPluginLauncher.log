@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:18] Emulator config file set to D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook\csx\Debug\roles\GuestBook_WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:18] DiagnosticsStoreRootPath set to: C:\Users\Xiaomi\AppData\Local\dftmp\Resources\bf672f8a-d08e-417f-98fd-4d299ff5c6da
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:18] Loading config file: D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook\csx\Debug\roles\GuestBook_WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:18] Config file to read: D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook\csx\Debug\roles\GuestBook_WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:18] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:18] Emulator config file set to D:\Fourth\sem 1\XO\GuestBook_AzureCloudService-main\Begin\GuestBook\csx\Debug\roles\GuestBook_WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:18] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:18] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:18] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:18] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:19] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:19] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:19] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:19] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:28:19] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:29:30] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [02.10.2022 17:29:30] DiagnosticPlugin exited with code 0
